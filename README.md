@@ -36,9 +36,9 @@ This repository contains two basic Express.js applications to handle player data
 2. Install Dependecies
    npm install express mongoose
 
-3. Start MongoDB Server
+3. Start MongoDB Server :
    mongod
 
-4. Run the Servers
+4. Run the Servers :
    node index.js
    node server.js 
